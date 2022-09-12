@@ -1,0 +1,30 @@
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.csproj.AssemblyReference.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.AssemblyInfoInputs.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.AssemblyInfo.cs
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.csproj.CoreCompileInputs.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.exe
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.deps.json
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.runtimeconfig.json
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.dll
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\bin\Debug\net6.0\ref\UserNameCreator.dll
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.pdb
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.dll
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\ref\UserNameCreator.dll
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.pdb
+C:\Users\izennah\Desktop\C# Learning\Practises\Practical C# For Absolute Beginners\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.genruntimeconfig.cache
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.exe
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.deps.json
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.runtimeconfig.json
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.dll
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\bin\Debug\net6.0\UserNameCreator.pdb
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.csproj.AssemblyReference.cache
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.AssemblyInfoInputs.cache
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.AssemblyInfo.cs
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.dll
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\refint\UserNameCreator.dll
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.pdb
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\UserNameCreator.genruntimeconfig.cache
+D:\Visual Studio Files\C#\UserNameCreator\UserNameCreator\obj\Debug\net6.0\ref\UserNameCreator.dll
